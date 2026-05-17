@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Syed Roshan Shareq👋
 
-<!--
-**Shareq-dev/Shareq-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
+🎮 Game Testing Enthusiast  
+🚀 Passionate about Interactive & 3D Web Experiences  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- HTML, CSS, JavaScript
+- GSAP (Animations)
+- Basic Three.js / WebGL
+- UI/UX Understanding
+
+---
+
+## 🎮 Interests & Hobbies
+- Playing PC Games 🎮  
+- Optimizing games for low-end hardware ⚙️  
+- Game Modding 🛠️  
+- Tech Enthusiast 💻  
+
+---
+
+## 🎯 Goals
+- Build high-quality interactive web experiences  
+- Get a remote job in frontend / QA / game testing  
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/syed-roshan-shareq-4408a7336/
+
+---
+
+⭐ Check out my repositories below!
